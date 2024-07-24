@@ -1,0 +1,3 @@
+/Users/yijiacao/Desktop/CS 5008 NEW/Lab Activity 4/cmake-build-debug/CMakeFiles/Lab_Activity_4.dir
+/Users/yijiacao/Desktop/CS 5008 NEW/Lab Activity 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yijiacao/Desktop/CS 5008 NEW/Lab Activity 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

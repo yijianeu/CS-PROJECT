@@ -1,0 +1,14 @@
+//
+// Created by Yijia Cao on 6/7/24.
+//
+
+#ifndef ASSIGNMENT_1_MODULE3ASSIGNMENTQUESTION6_H
+#define ASSIGNMENT_1_MODULE3ASSIGNMENTQUESTION6_H
+
+
+class Module3AssignmentQuestion6 {
+
+};
+
+
+#endif //ASSIGNMENT_1_MODULE3ASSIGNMENTQUESTION6_H
